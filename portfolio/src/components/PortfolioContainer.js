@@ -7,7 +7,7 @@ import Resume from './pages/Resume';
 import Contact from './pages/Contact';
 
 export default function PortfolioContainer() {
-  const [currentPage, setCurrentPage] = useState('Home');
+  const [currentPage, setCurrentPage] = useState('About');
 
   const renderPage = () => {
     if (currentPage === 'About') {
@@ -26,6 +26,7 @@ export default function PortfolioContainer() {
 
   return (
     <div>
+      <h1>Josh Kuhn</h1>
       <NavTabs currentPage={currentPage} handlePageChange={handlePageChange} />
       {renderPage()}
       <Footer currentPage={currentPage} handlePageChange={handlePageChange} />

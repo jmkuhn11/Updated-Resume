@@ -4,6 +4,7 @@ function Footer({ currentPage, handlePageChange }) {
   return (
     <ul className="nav nav-tabs">
       <li className="nav-item">
+        -
         <a
           href="https://github.com/jmkuhn11"
 
@@ -11,8 +12,10 @@ function Footer({ currentPage, handlePageChange }) {
         >
           Github
         </a>
+        -
       </li>
       <li className="nav-item">
+        -
         <a
           href="https://twitter.com/JoshKuhn3"
 
@@ -20,6 +23,7 @@ function Footer({ currentPage, handlePageChange }) {
         >
           Twitter
         </a>
+        -
       </li>
     </ul>
   );
