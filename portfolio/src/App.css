@@ -4,8 +4,7 @@
 }
 
 .body {
-    align-content: center;
-    text-align: center;
+    background-color: blanchedalmond;
 }
 
 .center {
@@ -16,6 +15,7 @@
 .aboutPara {
     width: 40%;
     border: 5px rgb(77, 26, 26) solid;
+    background-color: #aaaaaa;
     border-radius: 5px;
     display: inline-block;
     align-content: center;
