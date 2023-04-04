@@ -2,7 +2,7 @@ import React from 'react';
 
 function Footer({ currentPage, handlePageChange }) {
   return (
-    <ul className="nav nav-tabs">
+    <ul className="nav nav-tabs footer">
       <li className="nav-item">
         -
         <a

@@ -10,7 +10,7 @@ export default function Resume() {
       -
       </p>
       <p>
-        <p>Front-end Proficiencies</p>
+        <p>Front-end Proficiencies:</p>
 
           <p>- HTML</p>
           <p>- Class</p>
@@ -20,7 +20,7 @@ export default function Resume() {
           <p>- React</p>
           <p>- Bootstrap</p>
 
-        <p>Back-end Proficiencies</p>
+        <p>Back-end Proficiencies:</p>
 
           <p>- APIs</p>
           <p>- Node</p>

@@ -4,21 +4,55 @@ export default function Portfolio() {
   return (
     <div>
       <h1>Portfolio</h1>
-      <p>
-        Donec a volutpat quam. Curabitur nec varius justo, sed rutrum ligula.
-        Curabitur pellentesque turpis sit amet eros iaculis, a mollis arcu
-        dictum. Ut vel ante eget massa ornare placerat. Etiam nisl orci, finibus
-        sodales volutpat et, hendrerit ut dolor. Suspendisse porta dictum nunc,
-        sed pretium risus rutrum eget. Nam consequat, ligula in faucibus
-        vestibulum, nisi justo laoreet risus, luctus luctus mi lacus sit amet
-        libero. Class aptent taciti sociosqu ad litora torquent per conubia
-        nostra, per inceptos himenaeos. Mauris pretium condimentum tellus eget
-        lobortis. Interdum et malesuada fames ac ante ipsum primis in faucibus.
-        Donec placerat accumsan mi, ut congue neque placerat eu. Donec nec ipsum
-        in velit pellentesque vehicula sit amet at augue. Maecenas aliquam
-        bibendum congue. Pellentesque semper, lectus non ullamcorper iaculis,
-        est ligula suscipit velit, sed bibendum turpis dui in sapien.
-      </p>
+        <section>
+          <div>
+              <br></br>
+              <h3>First Assignment</h3>
+              <a class="flush" href="https://jmkuhn11.github.io/Password-Generator-Ch3/">
+              <img alt="Simple Password Generator" class="mediumProject" src="/first.PNG"></img></a>
+              <br></br>
+              <button><a href="https://github.com/jmkuhn11/Password-Generator-Ch3">Github</a></button>
+           </div>   
+          <div>
+              <br></br>    
+              <h3>MVC Tech Blog</h3>
+              <a class="flush" href="https://glacial-forest-62769.herokuapp.com/">
+              <img alt="Online blog for users to interact" class="mediumProject" src="/MVC-Tech-Blog.JPG"></img></a>
+              <br></br>
+              <button><a href="https://github.com/jmkuhn11/MVC-Tech-Blog">Github</a></button>
+          </div>
+          <div>
+              <br></br>
+              <h3>Note Taker</h3>
+              <a class="flush" href="https://mysterious-springs-39941.herokuapp.com/">
+              <img alt="Personal system for note taking" class="mediumProject" src="/Note-Taker.JPG"></img></a>
+              <br></br>
+              <button><a href="https://github.com/jmkuhn11/Note-Taking-Generator">Github</a></button>
+          </div>
+          <div>
+              <br></br>
+              <h3>Open Library Selector</h3>
+              <a class="flush" href="https://jmkuhn11.github.io/Open-Library/">
+              <img alt="Book Search Engine Project" class="mediumProject" src="./Project1-Pic1.PNG"></img></a>
+              <br></br>
+              <button><a href="https://github.com/jmkuhn11/Open-Library">Github</a></button>
+          </div>
+          <div>
+              <br></br>
+              <h3>Online Movie Review Platform</h3>
+              <a class="flush" href="https://mighty-plains-34884.herokuapp.com">
+              <img alt="Movie Search Engine Project" class="mediumProject" src="/Movie-Review.JPG"></img></a>
+              <br></br>
+              <button><a href="https://github.com/dmanaglia/Social-Movie-Media">Github</a></button>
+          </div>
+          <div>-</div>
+          <div>Thank you!</div>
+          <div>Please checkout the footer for more of my work on Github.</div>
+          <div>-</div>
+          <div>-</div>
+          <div>-</div>
+          <div>-</div>
+      </section>
     </div>
   );
 }
