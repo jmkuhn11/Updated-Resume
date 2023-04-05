@@ -1,13 +1,19 @@
 {
   "files": {
     "main.css": "/Updated-Resume/static/css/main.301f34b9.css",
-    "main.js": "/Updated-Resume/static/js/main.c857bf4e.js",
+    "main.js": "/Updated-Resume/static/js/main.628df67c.js",
+    "static/media/Project1-Pic1.PNG": "/Updated-Resume/static/media/Project1-Pic1.7f5cbbbd8cf8d5cbdca2.PNG",
+    "static/media/Me.jpg": "/Updated-Resume/static/media/Me.fd34f5c0248d812e824c.jpg",
+    "static/media/MVC-Tech-Blog.JPG": "/Updated-Resume/static/media/MVC-Tech-Blog.12cadaebc7156a394334.JPG",
+    "static/media/Movie-Review.JPG": "/Updated-Resume/static/media/Movie-Review.84ab9a7c78e02e2361a2.JPG",
+    "static/media/Note-Taker.JPG": "/Updated-Resume/static/media/Note-Taker.da606cda975f27546afc.JPG",
+    "static/media/first.PNG": "/Updated-Resume/static/media/first.665997cc50c4e137a63d.PNG",
     "index.html": "/Updated-Resume/index.html",
     "main.301f34b9.css.map": "/Updated-Resume/static/css/main.301f34b9.css.map",
-    "main.c857bf4e.js.map": "/Updated-Resume/static/js/main.c857bf4e.js.map"
+    "main.628df67c.js.map": "/Updated-Resume/static/js/main.628df67c.js.map"
   },
   "entrypoints": [
     "static/css/main.301f34b9.css",
-    "static/js/main.c857bf4e.js"
+    "static/js/main.628df67c.js"
   ]
 }
