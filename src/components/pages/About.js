@@ -1,10 +1,11 @@
 import React from 'react';
+import Me from '../..//images/Me.jpg'
 
 export default function About() {
   return (
     <div>
       <h1>About Me</h1>
-        <div><img alt="Self Portrait of Me" class="smallProject" src="/Me.jpg"></img></div>
+        <div><img alt="Self Portrait of Me" class="smallProject" src={Me}></img></div>
         <br></br>
         <div class="aboutPara">
           <p class="center">
