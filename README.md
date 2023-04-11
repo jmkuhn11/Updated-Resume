@@ -1,70 +1,18 @@
-# Getting Started with Create React App
+# Updated Resume
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Development
 
-## Available Scripts
+I already have a portfolio with some of my work in it using basic html and css. It holds my credentials, and will let future employers know of some of my capabilities. However, not only was it in need of an update, but I also wanted to show off some of the new skills I have learned since then. React is a new form of coding that not everyone in the field uses today. Showing employers that I also have this skill will help my chances for consideration. Through creating this page, I gained a much better understanding of how to use React and how to file structure pages in React and MERN. I also learned a new way to deploy more advanced applications publicly through github.
 
-In the project directory, you can run:
+## Installation
 
-### `npm start`
+The new dependencies one will need is react, react-dom, react-scripts, and gh-pages, along with the scripts predeploy and deploy. You'll also have to create the react app in the terminal first to make sure these dependencies and file structure are set up correctly.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Usage
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+One will click on the link and be taken to my updated portfolio and resume. The main page is an about me section, listing some of my accomplishments and backstory in the professional field. Clicking on the portfolio folder tab one to some of the varios projects I have worked along, along with their github repositories. Clicking on the contact field allows possible eomployers to reach out to me if they would like to discuss professional matters further. And if these employers need more information, they are able to click on my resume tab, which lists some of the skills I have learned, along with the possibility to download my resume.
 
-### `npm test`
+Link: https://jmkuhn11.github.io/Updated-Resume/
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Screenshot: ![20-pic1](https://user-images.githubusercontent.com/122703273/230266586-c358dadd-4ce2-4267-a949-948b0fb3c037.JPG)
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
