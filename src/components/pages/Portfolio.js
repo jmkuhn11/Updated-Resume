@@ -54,7 +54,7 @@ export default function Portfolio() {
           <div>
               <br></br>
               <h3>Gaming Geeks</h3>
-              <a class="flush" href="https://jmkuhn11.github.io/Updated-Resume/">
+              <a class="flush" href="https://blooming-lake-18705.herokuapp.com/">
               <img alt="Online Chatroom for Gamers" class="mediumProject" src={P3}></img></a>
               <br></br>
               <button><a href="https://github.com/irkag22/Gaming-Geeks">Github</a></button>
