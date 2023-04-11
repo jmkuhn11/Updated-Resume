@@ -4,6 +4,7 @@ import MR from '../..//images/Movie-Review.JPG'
 import MVC from '../..//images/MVC-Tech-Blog.JPG'
 import NT from '../..//images/Note-Taker.JPG'
 import P1 from '../..//images/Project1-Pic1.PNG'
+import P3 from '../..//images/Project3-Main.png'
 
 export default function Portfolio() {
   return (
@@ -49,6 +50,14 @@ export default function Portfolio() {
               <img alt="Movie Search Engine Project" class="mediumProject" src={MR}></img></a>
               <br></br>
               <button><a href="https://github.com/dmanaglia/Social-Movie-Media">Github</a></button>
+          </div>
+          <div>
+              <br></br>
+              <h3>Gaming Geeks</h3>
+              <a class="flush" href="https://jmkuhn11.github.io/Updated-Resume/">
+              <img alt="Online Chatroom for Gamers" class="mediumProject" src={P3}></img></a>
+              <br></br>
+              <button><a href="https://github.com/irkag22/Gaming-Geeks">Github</a></button>
           </div>
           <div>-</div>
           <div>Thank you!</div>
