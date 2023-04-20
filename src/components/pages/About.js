@@ -9,10 +9,7 @@ export default function About() {
         <br></br>
         <div class="aboutPara">
           <p class="center">
-          I began my coding career in freelance. I personally went out looking for local or smaller client bases needing a website or software development. In my spare time, I continued to develop a new phone app that would revolutionize handheld gaming. Once I launched it to the App Store, it was such a hit that Google reached out to me to come on as partner and work in their department.
-          </p>
-          <p class="center">
-          I worked at Google for almost a decade before wanting to do something more with my talents. I have since jumped on Board at NASA with their Open Source Software Department. The people here are the most experienced developers in the world. I work with them on programming machinery to send to space and take accurate pictures of the universe beyond us. As a hobby, I also help the world become a better place by speeding up and putting anti-scamming Software on Ticketmaster, following the Taylor Swift fiasco.
+          After graduating from Northwestern University in the spring of 2022, I accepted a claims position within Country Financial. The experience I gained through this opportunity helped me realize I wanted to find a job that utilized my mathematical and analytical skills. I enrolled in a 12- week Coding Bootcamp through Northwestern, which I completed in April 2023. I am now searching for a job where I can continue to develop and grow these skills.
           </p>
         </div>
     </div>

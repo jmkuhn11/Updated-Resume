@@ -62,10 +62,6 @@ export default function Portfolio() {
           <div>-</div>
           <div>Thank you!</div>
           <div>Please checkout the footer for more of my work on Github.</div>
-          <div>-</div>
-          <div>-</div>
-          <div>-</div>
-          <div>-</div>
       </section>
     </div>
   );
